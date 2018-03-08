@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1520451088004.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4168318905",
+    "id" : "DDCB5B10",
+    "lastKnownWriteTime" : 1520456384,
+    "last_content_update" : 1520456384709,
+    "path" : "D:/Spotify Project/SpotifR/R/getAlbum.R",
+    "project_path" : "R/getAlbum.R",
+    "properties" : {
+        "cursorPosition" : "3,27",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

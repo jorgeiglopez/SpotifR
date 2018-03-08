@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1520451102000.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2696635110",
+    "id" : "D5AAA54F",
+    "lastKnownWriteTime" : 1520457201,
+    "last_content_update" : 1520457201932,
+    "path" : "D:/Spotify Project/SpotifR/R/getArtistTopTracks.R",
+    "project_path" : "R/getArtistTopTracks.R",
+    "properties" : {
+        "cursorPosition" : "2,3",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

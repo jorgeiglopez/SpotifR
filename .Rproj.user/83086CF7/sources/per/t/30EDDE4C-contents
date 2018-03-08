@@ -1,0 +1,12 @@
+Package: SpotifR
+Type: Package
+Title: A package to interact with Spotify API
+Version: 0.1.0
+Author: J. I. Lopez <jorgeiglopez@gmail.com>
+Maintainer: J. I. Lopez <jorgeiglopez@gmail.com>
+Description: A package to interact with Spotify API. Get User's info, playlists and also a track analysis from the API.
+License: GPL
+Imports: httr, jsonlite, dplyr
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
